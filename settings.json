@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FragSMP-al9h.aternos.me:59057",
+    "ip": "FragSMP-al9h.aternos.me",
     "port": 59057,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
